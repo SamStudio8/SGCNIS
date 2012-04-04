@@ -1,0 +1,5 @@
+[29/03/12 14:00:26] [APP] The Data Entry application was launched.
+[29/03/12 14:00:45] [PWD] The Data Entry application's PWD was changed to /home/sam/workspace/
+[29/03/12 14:00:45] [PWD] The Data Entry application log was changed to /home/sam/workspace/log.txt
+[29/03/12 14:00:45] [PWD] The Data Entry application's PWD was changed to /home/sam/workspace/
+[29/03/12 14:00:45] [PWD] The Data Entry application log was changed to /home/sam/workspace/log.txt
